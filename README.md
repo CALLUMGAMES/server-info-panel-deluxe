@@ -50,19 +50,5 @@ Both versions now use updated XML formatting compatible with the latest 7DTD UI 
 
 > This mod was updated and published **with permission from Eihwaz**, who kindly allowed use of the original code and concept.
 
----
-
-## 🔖 License
-
-This updated version is released under the **MIT License** — you are free to use, modify, and share it non-commercially, as long as you:
-- Give appropriate credit
-- Do not reupload unmodified versions
-- Do not sell or monetize it
-
----
-
-## 📫 Contact
-
-For mod updates or support:
 - GitHub Issues: [github.com/CALLUMGAMES](https://github.com/CALLUMGAMES)
 - Discord: [discord.gg/9DPMVSVCvs](https://discord.gg/9DPMVSVCvs)
