@@ -1,0 +1,14 @@
+## ⚠️ CURRENT FUNCTIONAL STATUS
+
+As of this release, **not all buttons or tabs are functional**. This mod is still being updated for the latest UI system in 7 Days to Die v2.1.
+
+🟢 **WORKING:**
+- ✅ DISCORD button/icon (opens external link)
+- ✅ SUPPORT button (visible and clickable)
+
+🔴 **NOT YET FUNCTIONAL:**
+- ❌ Other external link buttons (Twitch, YouTube, Linktree, etc.)
+- ❌ Tab switching and multi-panel navigation
+- ❌ Some close/minimize UI elements
+
+> These features are planned for future compatibility updates. You're welcome to customize or contribute via GitHub.
