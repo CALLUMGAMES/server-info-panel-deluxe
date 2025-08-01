@@ -1,0 +1,99 @@
+# Server Panel
+
+A customizable server information panel for the ESC menu in **7 Days to Die**  
+Fully updated for version **2.1 (b10)** / Alpha 22.
+
+---
+
+## 🧰 Features
+
+- 📋 Adds a slick server info window to the ESC menu
+- 🔗 Supports external links (e.g., Discord, GitHub, YouTube)
+- 🧱 Modular design using XUi system
+- 🌐 English-only localization (optimized UTF-8 support)
+- 🖼️ Custom icons and branding
+
+---
+
+## 📦 Files Included
+
+- `ModInfo.xml`  
+- `Localization.txt` (English only)  
+- `windows.xml` / `xui.xml`  
+- `linkURL_1.xml` (remote URL support)  
+- `spd_discord.png` + optional icons  
+
+You can rebrand the icons or modify the layout to match your server's style.
+
+---
+
+## 📥 Installation
+
+1. Download or clone this repository.
+2. Copy the contents into your 7DTD `Mods` folder:
+
+3. Make sure only one version of the mod is active at a time.
+4. Launch the game — the panel appears in the ESC menu.
+
+---
+
+## 🧑‍💻 Author & Support
+
+- 🧠 Mod version by: [CALLUMGAMES](https://github.com/CALLUMGAMES)
+- 💬 Join our Discord: [https://discord.gg/wJEGruC7b4](https://discord.gg/wJEGruC7b4)
+
+---
+
+## 🤝 Credits
+
+This mod is an updated and rebranded version of the original **Server Panel Deluxe**  
+Originally created by: **Eihwaz**  
+Links to the original project:  
+- [https://github.com/BPMVT/SCG](https://github.com/BPMVT/SCG)  
+- [https://linktr.ee/eihwazgeht](https://linktr.ee/eihwazgeht)
+
+Massive respect and thanks to Eihwaz for building the original mod concept and layout.
+
+---
+
+## 📖 License
+
+This project is distributed as-is, for free, under the [MIT License](LICENSE).  
+Attribution required if redistributed. Commercial use not permitted without permission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CALLUMGAMES Custom License
+
+Copyright (c) 2025 CALLUMGAMES
+
+This mod is provided "as-is" for personal and community use within the game "7 Days to Die".
+
+You are permitted to:
+- Download and use this mod for personal or server use
+- Share links to the original mod page (GitHub or Nexus Mods)
+- Modify for private use
+
+You are NOT permitted to:
+- Reupload or redistribute this mod on any platform (including Nexus, GitHub, mod launchers, or Discords) without explicit written permission from CALLUMGAMES
+- Claim ownership or remove author credit from the files or UI
+- Monetize, bundle, or resell this mod in any form
+
+Any breach of these terms may result in takedown requests or platform reporting.
+
+To request permission for collaboration, translations, or rehosting, please contact:
+🔗 GitHub: https://github.com/CALLUMGAMES  
+🔗 Discord: https://discord.gg/wJEGruC7b4
+
+Stay fair. Respect the creator.
