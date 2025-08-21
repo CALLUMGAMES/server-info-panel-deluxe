@@ -11,7 +11,7 @@ Server Panel Deluxe adds a stylish and customizable UI panel to your 7 Days to D
 
 ## ✅ Updated For
 
-- **7 Days to Die v2.1 (b10)** – Alpha 21-compatible
+- **7 Days to Die v2.2 +** – Alpha 21-compatible
 - Works in both single-player and dedicated servers
 
 ---
