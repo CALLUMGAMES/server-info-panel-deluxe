@@ -52,3 +52,5 @@ Both versions now use updated XML formatting compatible with the latest 7DTD UI 
 
 - GitHub Issues: [github.com/CALLUMGAMES](https://github.com/CALLUMGAMES)
 - Discord: [discord.gg/9DPMVSVCvs](https://discord.gg/9DPMVSVCvs)
+
+hosting is from https://pingplayers.com use https://pingplayers.com/?ref=REF21413XK8BY to get 35% off your first server 
