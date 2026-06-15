@@ -6,9 +6,7 @@ As of this release, **not all buttons or tabs are functional**. This mod is stil
 - ✅ DISCORD button/icon (opens external link)
 - ✅ SUPPORT button (visible and clickable)
 - ✅ Tab switching and multi-panel navigation
-
-🔴 **NOT YET FUNCTIONAL:**
-- ❌ Other external link buttons (Twitch, YouTube, Linktree, etc.)
-- ❌ Some close/minimize UI elements
+- ✅ Other external link buttons (Twitch, YouTube, Linktree, etc.)
+- ✅ Some close/minimize UI elements
 
 > These features are planned for future compatibility updates. You're welcome to customize or contribute via GitHub.
