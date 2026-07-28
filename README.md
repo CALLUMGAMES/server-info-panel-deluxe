@@ -1,4 +1,4 @@
-# Server Panel Deluxe (Patched for 7 Days to Die v2.6)
+# Server Panel Deluxe (Patched for 7 Days to Die v3.1.0)
 This is an updated and patched version of the **Server Panel Deluxe** mod originally created by **Eihwaz**.
 ## 🛠️ What This Mod Does
 Server Panel Deluxe adds a stylish and customizable UI panel to your 7 Days to Die server — perfect for displaying:
@@ -6,7 +6,7 @@ Server Panel Deluxe adds a stylish and customizable UI panel to your 7 Days to D
 - Community links (Discord, Twitch, YouTube, etc.)
 - Custom messages or modpack branding
 ## ✅ Updated For
-- **7 Days to Die v2.3+** – Alpha 21-compatible
+- **7 Days to Die v3.1.0+
 - Works in both single-player and dedicated servers
 ---
 ## 📂 Included Versions
@@ -35,7 +35,6 @@ Both versions now use updated XML formatting compatible with the latest 7DTD UI 
 > This mod was updated and published **with permission from Eihwaz**, who kindly allowed use of the original code and concept.
 - GitHub Issues: [github.com/CALLUMGAMES](https://github.com/CALLUMGAMES)
 - Discord: [discord.gg/9DPMVSVCvs](https://discord.gg/9DPMVSVCvs)
-
 ❤️ Support Development
 Donations are entirely optional but greatly appreciated.
 Your support helps fund:
